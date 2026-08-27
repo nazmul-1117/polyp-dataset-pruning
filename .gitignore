@@ -223,5 +223,4 @@ temp/
 readme/
 prompt/
 research/
-# *.zip
-.claude
+*.zip
