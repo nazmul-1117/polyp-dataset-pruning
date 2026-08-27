@@ -221,3 +221,7 @@ __marimo__/
 # Manual Add
 temp/
 readme/
+prompt/
+research/
+# *.zip
+.claude

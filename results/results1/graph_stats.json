@@ -1,0 +1,30 @@
+{
+  "tau": 0.75,
+  "n_nodes": 700,
+  "n_edges": 54002,
+  "density": 0.2207316574698549,
+  "n_communities": 18,
+  "modularity": 0.2253461196285239,
+  "singleton_count": 13,
+  "largest_community_size": 266,
+  "community_size_distribution": [
+    266,
+    243,
+    103,
+    73,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ]
+}
